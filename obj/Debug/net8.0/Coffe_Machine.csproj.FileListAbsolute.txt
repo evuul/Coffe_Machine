@@ -1,0 +1,14 @@
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/bin/Debug/net8.0/Coffe_Machine
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/bin/Debug/net8.0/Coffe_Machine.deps.json
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/bin/Debug/net8.0/Coffe_Machine.runtimeconfig.json
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/bin/Debug/net8.0/Coffe_Machine.dll
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/bin/Debug/net8.0/Coffe_Machine.pdb
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/obj/Debug/net8.0/Coffe_Machine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/obj/Debug/net8.0/Coffe_Machine.AssemblyInfoInputs.cache
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/obj/Debug/net8.0/Coffe_Machine.AssemblyInfo.cs
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/obj/Debug/net8.0/Coffe_Machine.csproj.CoreCompileInputs.cache
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/obj/Debug/net8.0/Coffe_Machine.dll
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/obj/Debug/net8.0/refint/Coffe_Machine.dll
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/obj/Debug/net8.0/Coffe_Machine.pdb
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/obj/Debug/net8.0/Coffe_Machine.genruntimeconfig.cache
+/Users/alexanderek/RiderProjects/Coffe_Machine/Coffe_Machine/obj/Debug/net8.0/ref/Coffe_Machine.dll
